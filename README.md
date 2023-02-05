@@ -1,6 +1,6 @@
 <h2>👋 Hi there, I'm Jay</h2>
-<p>I'm currently learning Java and React to get a job as a Fullstack Developer.
-Check out my resumee on  
+<p>I'm currently learning Java and React to get a job as a Fullstack Developer.</p>
+<p>Check out my resumee on  
   <a href="https://www.linkedin.com/in/jakob-g/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"></a>
 </p>
 
