@@ -6,7 +6,7 @@
 <ul>
 <li>- 🔭 I’m currently contributing to <a href="https://github.com/codeforcologne/trinkwasser">Trinkwasser Köln Open Data - Open Source Project</a>.</li>
 <li>- 🌱 I’m currently learning Java and React</li>
-<li>- 👨‍💻 Most of my projects are available on <a href="https://github.com/j-grosse>Github"</a>.</li>
+<li>- 👨‍💻 Most of my projects are available on <a href="https://github.com/j-grosse">Github</a>.</li>
 </li>
 </ul>
 
