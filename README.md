@@ -1,4 +1,8 @@
-<h2>👋 Hi there, I'm Jay</h2>
+<h2style="background-image: url("https://unsplash.com/photos/MgtHZ4zlC1U");
+background-repeat:no-repeat;
+border:1px solid #F00;
+width:300px;
+height:300px">👋 Hi there, I'm Jay</h2>
 <p>I'm currently learning Java and React to get a job as a Fullstack Developer.</p>
 <p> Check out my resumee on LinkedIn:</p>
   <a href="https://www.linkedin.com/in/jakob-g/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"></a>
@@ -36,11 +40,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true" alt="j-grosse" />
-
-<div style="background-image: url("https://unsplash.com/photos/MgtHZ4zlC1U");
-background-repeat:no-repeat;
-border:1px solid #F00;
-width:300px;
-height:300px">
-
-</div> 
