@@ -33,7 +33,6 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" /></p>
 -->
--->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true" alt="j-grosse" />
