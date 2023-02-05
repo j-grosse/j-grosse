@@ -1,4 +1,4 @@
-<h2style="background-image: url(https://unsplash.com/photos/MgtHZ4zlC1U);
+<h2 style="background-image: url(https://unsplash.com/photos/MgtHZ4zlC1U);
 background-repeat:no-repeat;
 border:1px solid #F00;
 width:300px;
