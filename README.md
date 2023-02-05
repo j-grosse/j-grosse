@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true" alt="j-grosse" />
 
-<div style="background-image: url(/images/scripting.jpg);
+<div style="background-image: url(https://unsplash.com/photos/MgtHZ4zlC1U);
 background-repeat:no-repeat;
 border:1px solid #F00;
 width:300px;
