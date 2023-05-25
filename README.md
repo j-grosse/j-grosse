@@ -1,13 +1,12 @@
 <h2>👋 Hi there, I'm Jay</h2>
-<p>I'm currently learning Java and React to get a job as a Fullstack Developer.</p>
 <p> Check out my <a href="https://j-grosse.github.io">PORTFOLIO WEBSITE</a> and my CV on LinkedIn:</p>
   <a href="https://www.linkedin.com/in/jakob-g/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"></a>
 
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>- 🔭 I’m currently contributing to <a href="https://github.com/codeforcologne/trinkwasser">Trinkwasser Köln Open Data - Open Source Project</a>.</li>
-<li>- 🌱 I’m currently learning Java and React</li>
+<li>- 🔭 I’m currently doing the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
+<li>- 🌱 And I’m currently learning the MERN Stack</li>
 <li>- 👨‍💻 Most of my projects are available on <a href="https://github.com/j-grosse">Github</a>.</li>
 </li>
 </ul>
