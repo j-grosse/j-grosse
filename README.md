@@ -36,6 +36,7 @@
 -->
 
 <p></p>
+  |a|b|
 |-----|-----|
 | [x](https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true) | <img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="kata stats" /> | 
 
