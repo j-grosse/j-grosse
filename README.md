@@ -5,8 +5,8 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>- 🔭 I’m currently doing the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
-<li>- 🌱 And I’m currently learning the MERN Stack</li>
+<li>- 🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
+<li>- 🌱 I’m currently starting as a Junior Frontend Developer</li>
 <li>- 👨‍💻 Most of my projects are available on <a href="https://github.com/j-grosse">Github</a>.</li>
 </li>
 </ul>
@@ -36,4 +36,4 @@
 
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true" alt="stats" />
-<img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="kata stats" />
+<!-- <img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="kata stats" /> -->
