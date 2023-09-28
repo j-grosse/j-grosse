@@ -5,9 +5,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>- 🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
-<li>- 🌱 I’m currently starting as a Junior Frontend Developer</li>
-<li>- 👨‍💻 Most of my projects are available on <a href="https://github.com/j-grosse">Github</a>.</li>
+<li>🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
 </li>
 </ul>
 
