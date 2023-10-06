@@ -2,13 +2,11 @@
 <p> Check out my <a href="https://j-grosse.github.io">PORTFOLIO WEBSITE</a> and my CV on LinkedIn:</p>
   <a href="https://www.linkedin.com/in/jakob-g/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"></a>
 
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School</a>.</li>
+<li>🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School</a>.</li>
 </li>
 </ul>
-
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
