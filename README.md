@@ -1,5 +1,5 @@
 <h2>👋 Hi there, I'm Jay from Germany</h2>
-<p> Check out my <a href="https://j-grosse.github.io">Portfolio Website</a> and my CV on <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn</a></p>
+<p> Check out my <a href="https://j-grosse.github.io">Portfolio Website</a> and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
 
 <ul>
 <li>🔭 In March 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a></li>
