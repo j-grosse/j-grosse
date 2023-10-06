@@ -3,7 +3,7 @@
 
 <ul>
 <li> In March 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a></li>
-<li> In September 2023 I graduated from the four month Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School Berlin</a>.</li>
+<li> In September 2023 I graduated from the four month Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School Berlin</a>.</li>
 </li>
 </ul>
 
