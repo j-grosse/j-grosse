@@ -1,10 +1,8 @@
-<h2>👋 Hi there, I'm Jay</h2>
-<p> Check out my <a href="https://j-grosse.github.io">PORTFOLIO WEBSITE</a> and my CV on LinkedIn:</p>
-  <a href="https://www.linkedin.com/in/jakob-g/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"></a>
+<h2>👋 Hi there, I'm Jay from Germany</h2>
+<p> Check out my <a href="https://j-grosse.github.io">Portfolio Website</a> and my CV on <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn:</a></p>
 
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 In 2023 I graduated from the Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School</a>.</li>
+<li>🔭 In 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and graduated from the four-month Full-Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School Berlin</a>.</li>
 </li>
 </ul>
 
