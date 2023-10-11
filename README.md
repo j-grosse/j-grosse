@@ -2,8 +2,8 @@
 <p> Check out my <a href="https://j-grosse.github.io">Portfolio</a> Website and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
 
 <ul>
-<li> In March 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a></li>
 <li> In September 2023 I graduated from the four month Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School Berlin</a>.</li>
+<li> In March 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a></li>
 </li>
 </ul>
 
