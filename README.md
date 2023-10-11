@@ -1,4 +1,4 @@
-<h2>👋 Hi there, I'm Jay from Germany</h2>
+👋 Hi there, I'm Jay from Germany
 <p> Check out my <a href="https://j-grosse.github.io">Portfolio Website</a> and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
 
 <ul>
