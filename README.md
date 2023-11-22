@@ -1,4 +1,4 @@
-👋 Hi there, I'm Jay from Germany
+Hi there, I'm Jay from Germany
 <p> Check out my <a href="https://j-grosse.github.io">Portfolio</a> Website and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
 
 <ul>
@@ -7,7 +7,7 @@
 </li>
 </ul>
 
-🚀 Tech I use
+Tech I use
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
