@@ -3,9 +3,9 @@
 
 <ul>
 <li> I am currently contributing to Open Source on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater </a> project in the EddieHub Community.</li>
-<li> In 09/2023 I graduated from the four month Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com/web-app-development-bootcamp">WBS Coding School Berlin</a>.</li>
+<li> In 09/2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a>.</li>
 <li> In 03/2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a></li>
-</li>
+<li> In 2022 I decided to become a professional Developer and started learning OOP with Java.</li>
 </ul>
 
 <h2>Tech I use</h2>
@@ -31,6 +31,6 @@
 -->
 
 <p></p>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" />
-<a href="https://profile.codersrank.io/user/j-grosse"><img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=dark" alt="stats" /></a>
+<a href="https://profile.codersrank.io/user/j-grosse"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=dark" alt="stats" />
 <img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=dark" alt="kata stats" />
