@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Jay from Germany</h2>
+<h2>Hi 👋, I'm Jakob</h2>
 <p> Check out my <a href="https://j-grosse.github.io">Portfolio</a> Website and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
 
 <ul>
@@ -31,6 +31,6 @@
 -->
 
 <p></p>
-<a href="https://profile.codersrank.io/user/j-grosse" target="_blank"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" /></a>
+<a href="https://profile.codersrank.io/user/j-grosse" target="_blank" rel="noopener noreferrer"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=dark" alt="stats" />
 <img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=dark" alt="kata stats" />
