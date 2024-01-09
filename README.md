@@ -32,5 +32,5 @@
 
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=dark" alt="stats" />
-<codersrank-skills-chart username="j-grosse"></codersrank-skills-chart>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" alt="codersrank skill chart" />
 <img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=dark" alt="kata stats" />
