@@ -1,6 +1,5 @@
 <h1>👋 Hi, I'm Jakob, a german full stack web developer.</h1>
-<h3> See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more information about me.</h3>
-<br>
+<p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
 <li> I am currently attending conferences and local meetups like CologneJS, OSAMC (Open Source Audio Meetup Cologne) etc.</li>
@@ -41,5 +40,5 @@
 <a href="https://profile.codersrank.io/user/j-grosse" target="_blank" rel="noopener noreferrer"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" /></a>
 
 <h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=dark" alt="stats" />
-<img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=dark" alt="kata stats" />
+<img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="kata stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show_icons=true&count_private=true&theme=light" alt="stats" />
