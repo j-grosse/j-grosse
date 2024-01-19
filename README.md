@@ -7,8 +7,9 @@
 <li> In 09/2023 I graduated from the over 4 months long Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a>.</li>
 <li> In 03/2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
 <li> In 2022 I decided to become a professional Developer and started learning OOP with Java.</li>
-<br>
-<li>Conferences and other events I attended:</li>
+</ul>
+<ul>
+<h2>Conferences and other events I attended</h2>
 <li><a href="https://www.sonoj.org/archive/2023.html">Sonoj Convention 2023</a></li>
 <li><a href="https://www.offenedaten-koeln.de/blog/open-data-day-2023-samstag-4-m%C3%A4rz-2023-1000-bis-1500-uhr-zukunftslabor-der-stadt-k%C3%B6ln">Open Data Day Cologne 2023</a></li>
 <li><a href="https://www.lise.de/blog/artikel/global-day-of-code-retreat-2021/">GDCR Cologne 2022</a> (Global Day of Code Retreat)</li>
