@@ -3,10 +3,12 @@
 <h2> Developer journey</h2>
 <ul>
 <li> I am currently attending conferences and local meetups like CologneJS, OSAMC (Open Source Audio Meetup Cologne) etc.</li>
-<li> And I am part of the EddieHub Community where I am contributing to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
-<li> In september 2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> that took over 4 months.</li>
-<li> In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
-<li> In 2022 I decided to become a professional software developer and started learning OOP with Java and applied for traineeships.</li>
+<li> I am part of the EddieHub Community where I am contributing to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
+<li> In september 2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (with a duration of over 4 months).</li>
+<li> In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and 
+<br>
+I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
+<li> In 2022 I decided to become a professional software/web developer and started learning OOP with Java and applied for traineeships.</li>
 </ul>
 <h2>Conferences and events</h2>
 <ul>
