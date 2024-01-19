@@ -4,7 +4,7 @@
 <ul>
 <li> I am currently attending local Meetups like Javascript Cologne, Open Source Audio Meetup Cologne and others.</li>
 <li> And I am part of the EddieHub Community where I am contributing to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
-<li> In 09/2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a>.</li>
+<li> In 09/2023 I graduated from the over 4 months long Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a>.</li>
 <li> In 03/2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>.</li>
 <li> In 2022 I decided to become a professional Developer and started learning OOP with Java.</li>
 </ul>
