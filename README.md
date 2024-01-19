@@ -1,14 +1,14 @@
-# Hi 👋, I'm Jakob
-<p> Check out my <a href="https://j-grosse.github.io">Portfolio</a> Website and my <a href="https://www.linkedin.com/in/jakob-g/">CV</a> on LinkedIn</p>
+<h1>Hi 👋, I'm Jakob, a developer from Germany</h1>
+<h3> For more info about me, see my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a>.</h3>
 
 <ul>
 <li> I am currently attending local Meetups like CologneJS, OSAMC (Open Source Audio Meetup Cologne) and others.</li>
 <li> And I am part of the EddieHub Community where I am contributing to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
-<li> In 09/2023 I graduated from the over 4 months long Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a>.</li>
+<li> In 09/2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> that took over 4 months.</li>
 <li> In 03/2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
 <li> In 2022 I decided to become a professional Developer and started learning OOP with Java.</li>
 </ul>
-## Conferences and other events I attended
+<h2>Attended conferences and events</h2>
 <ul>
 <li><a href="https://www.sonoj.org/archive/2023.html">Sonoj Convention 2023</a></li>
 <li><a href="https://www.offenedaten-koeln.de/blog/open-data-day-2023-samstag-4-m%C3%A4rz-2023-1000-bis-1500-uhr-zukunftslabor-der-stadt-k%C3%B6ln">Open Data Day Cologne 2023</a></li>
