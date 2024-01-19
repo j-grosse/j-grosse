@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Jakob, a developer from Germany</h1>
-<h3> For more info about me, see my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a>.</h3>
+<h1>👋 Hi, I'm Jakob, a german full stack web developer.</h1>
+<h3> See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more information about me.</h3>
 
 <ul>
 <li> I am currently attending local Meetups like CologneJS, OSAMC (Open Source Audio Meetup Cologne) and others.</li>
@@ -10,9 +10,9 @@
 </ul>
 <h2>Attended conferences and events</h2>
 <ul>
-<li><a href="https://www.sonoj.org/archive/2023.html">Sonoj Convention 2023</a></li>
+<li><a href="https://www.sonoj.org/archive/2023.html">Sonoj Convention 2023</a> (about music production with free and open source software)</li>
 <li><a href="https://www.offenedaten-koeln.de/blog/open-data-day-2023-samstag-4-m%C3%A4rz-2023-1000-bis-1500-uhr-zukunftslabor-der-stadt-k%C3%B6ln">Open Data Day Cologne 2023</a></li>
-<li><a href="https://www.lise.de/blog/artikel/global-day-of-code-retreat-2021/">GDCR Cologne 2022</a> (Global Day of Code Retreat)</li>
+<li><a href="https://www.lise.de/blog/artikel/global-day-of-code-retreat-2021/">GDCR Cologne 2022</a> (Global Day of Code Retreat - "Conway's Game of Life" pair programming challenge)</li>
 </ul>
 
 <h2>Tech I use</h2>
