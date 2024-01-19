@@ -42,5 +42,5 @@ I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Colog
 <a href="https://profile.codersrank.io/user/j-grosse" target="_blank" rel="noopener noreferrer"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=j-grosse" width="468px" alt="codersrank skill chart" /></a>
 
 <h2>Stats</h2>
+<img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="codewars kata stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=j-grosse&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true&theme=light&title_color=000000&icon_color=000000&text_color=BE4C36&hide_border=true" alt="github stats" />
-<img src="https://github.r2v.ch/codewars?user=j-grosse&name=true&theme=light" alt="kata stats" />
