@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Jakob, a german full stack web developer.</h1>
+<h1>👋 Hi, I'm Jakob, full stack web developer from Germany.</h1>
 <p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
