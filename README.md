@@ -2,13 +2,13 @@
 <p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
-<li> I am currently attending conferences and local meetups like CologneJS, OSAMC (Open Source Audio Meetup Cologne) etc.</li>
-<li> I am part of the EddieHub Community where I am contributing to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
-<li> In september 2023 I graduated from the Full Stack Web & App Development Bootcamp at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (with a duration of over 4 months).</li>
-<li> In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a> and 
+<li> I am currently attending local meetups like React Cologne, JS Cologne, Open Source Audio Meeting Cologne (OSAMC)</li>
+<li> I contributed to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
+<li> In september 2023 I completed my intensive training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months).</li>
+<li> In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. 
 <br>
 I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
-<li> In 2022 I decided to become a professional software/web developer and started learning OOP with Java and applied for traineeships.</li>
+<li> In 2022 I decided to become a professional software/web developer and started learning OOP with Java.</li>
 </ul>
 <h2>Conferences and events</h2>
 <ul>
