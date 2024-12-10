@@ -2,11 +2,11 @@
 <p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
-<li> I like to attending local meetups like React Cologne, JS Cologne and Open Source Audio Meeting Cologne (OSAMC)</li>
+<li> I like to attend local meetups like React Cologne, JS Cologne and Open Source Audio Meeting Cologne (OSAMC)</li>
 <li>For <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne</a> by Open Knowledge Foundation I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
-<li> I contributed to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
+<li> I 2023 I started to contribute to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
 <br>
-<li> In 2022 I decided to become a professional software/web developer and started learning OOP with Java. In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. In september 2023 I completed my intense career-changer training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months) and now work as a web developer.</li>
+<li> My path to web development: In 2022 I decided to become a professional web developer and started learning OOP with Java. In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. And I completed my intense career-changer training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months) and in 2024 I started to work as an employed web developer.</li>
 </li>
 
 </ul>
