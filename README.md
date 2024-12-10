@@ -2,9 +2,9 @@
 <p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
-<li> I am currently attending local meetups like React Cologne, JS Cologne, Open Source Audio Meeting Cologne (OSAMC)</li>
-<li> I contributed to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
-<li> In september 2023 I completed my intensive training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months).</li>
+<li> I like to attending local meetups like React Cologne, JS Cologne and Open Source Audio Meeting Cologne (OSAMC)</li>
+<li> I contribute to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
+<li> In september 2023 I completed my intense career-changer training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months) and now work as a web developer.</li>
 <li> In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. 
 <br>
 I attended the <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne Meetup</a> by the Open Knowledge Foundation, where I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
