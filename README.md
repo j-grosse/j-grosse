@@ -2,11 +2,11 @@
 <p>See my <a href="https://j-grosse.github.io">Portfolio Website</a> and <a href="https://www.linkedin.com/in/jakob-g/">LinkedIn CV</a> for more info.</p>
 <h2> Developer journey</h2>
 <ul>
-<li> I like to attend local meetups like React Cologne, JS Cologne and Open Source Audio Meeting Cologne (OSAMC)</li>
+<li> I am attending local meetups like Cologne JS, React Cologne and Open Source Audio Meeting Cologne (OSAMC)</li>
 <li>For <a href="https://codefor.de/projekte/trinkwasser/">Code for Cologne</a> by Open Knowledge Foundation I adapted their <a href="https://codeforcologne.github.io/trinkwasser/src/index.html">drinking water app</a> for the city of Cologne.</li>
 <li> I 2023 I started to contribute to Open Source, for example on the <a href="https://github.com/EddieHubCommunity/RepoRater">Repo Rater</a> project.</li>
 <br>
-<li> My path to web development: In 2022 I decided to become a professional web developer and started learning OOP with Java. In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. And I completed my intense career-changer training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months) and in 2024 I started to work as an permanently employed software developer.</li>
+<li> My path to web development: In 2022 I decided to become a professional web developer and started learning OOP with Java. In march 2023 I got my Java Programming I & II certificates from <a href="https://java-programming.mooc.fi">University of Helsinki</a>. And I completed my intense career-changer training in "Full Stack Web & App Development" at <a href="https://wbscodingschool.com">WBS Coding School Berlin</a> (duration: > 4 months). In 2024 I started to work as an permanently employed web developer.</li>
 </li>
 
 </ul>
@@ -33,10 +33,9 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
+<!-- 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" /></p>
 -->
 
